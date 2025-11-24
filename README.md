@@ -2,7 +2,7 @@
 
 A simple, user-friendly web application built with HTML, CSS, and JavaScript that converts temperatures from Kelvin to both Celsius and Fahrenheit.
 
-![Kelvin Temperature Converter Screenshot](screenshot.png) *(Optional: add a screenshot)*
+![Kelvin Temperature Converter Screenshot](Screenshot_20251125-001112.png)
 
 ## Features
 
