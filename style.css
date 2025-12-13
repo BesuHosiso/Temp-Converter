@@ -138,3 +138,10 @@ border-bottom: 1.8px solid #777;
     gap: 14px;
     width: 100%;
 }
+
+footer {
+  margin-top: auto;
+  padding: 20px;
+  font-size: 0.8rem;
+  color: var(--secondary-color);
+}
