@@ -13,7 +13,7 @@ A simple, user-friendly web application built with HTML, CSS, and JavaScript tha
 
 ## Demo
 
-👉 [Live Demo on GitHub Pages](https://besuhosiso.github.io/Temp-Converter/)
+👉 [Live Demo on GitHub Pages](https://besufikadhosiso.github.io/Temp-Converter/)
 
 
 ## Technologies Used
